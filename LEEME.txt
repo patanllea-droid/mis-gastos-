@@ -1,0 +1,10 @@
+MIS GASTOS — VERSIÓN PARA PUBLICAR E INSTALAR
+
+Esta carpeta contiene la aplicación sin registros financieros personales, el logo, el manifiesto y caché sin conexión.
+
+1. Sube TODOS los archivos de esta carpeta, manteniendo la carpeta icons, a un alojamiento HTTPS.
+2. Abre la dirección de index.html en Chrome del celular.
+3. En el menú de Chrome, elige Instalar aplicación o Agregar a pantalla principal.
+4. Para recuperar tus datos, copia aparte Mis_Gastos_respaldo_para_importar.json al celular. En la aplicación usa Importar copia y selecciona ese archivo.
+
+No subas el respaldo JSON al alojamiento público. El ZIP de publicación no lo incluye.

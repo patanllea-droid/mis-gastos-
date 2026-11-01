@@ -1,0 +1,16 @@
+{
+  "id": "./index.html",
+  "name": "Mis Gastos",
+  "short_name": "Mis Gastos",
+  "description": "Organiza tu sueldo, ahorra y controla tus gastos.",
+  "start_url": "./index.html#homeTop",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8fb",
+  "theme_color": "#fff0f6",
+  "icons": [
+    { "src": "./icons/mis-gastos-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/mis-gastos-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
